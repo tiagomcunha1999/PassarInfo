@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">PassarInfo</string>
+    <string name="Idade">Idade</string>
+    <string name="Nome">Nome</string>
+    <string name="Télemovel">Télemovel</string>
+    <string name="Email">Email</string>
+    <string name="Telefone">Telefone</string>
+    <string name="Peso">Peso</string>
+    <string name="Idade">Idade</string>
+    <string name="Altura">Altura</string>
+    <string name="button_enviar">Enviar</string>
 </resources>
